@@ -26,13 +26,11 @@ September 2019 to June 2024
 Work Experience
 ======
 - **The Eastern Institute of Technology Academician Dayong Jin's Group**
-
 March 2025 to present
 Position: Engineer
 Project: Organiod Intelligence
 
 - **The Hong Kong Polytechnic University(PolyU) at the Department of Aeronautical and Aviation Engineering(AAE)**
-
 September 2024 to February 2025
 Position: Research Technical Assistant of AIMS group
 Project:UAV and UGV Dlivery Collaboration in Low-alttitude Economy, at PolyU AAE AIMS Group
