@@ -8,48 +8,28 @@ redirect_from:
 ---
 
 
-Hiya, I’m Hao WU, and you can call me Quentin. In ancient Rome, it symbolized the **number five**. In sound, it mirrors my name. I was born in 2000 and identify as an ENFP. I’m currently seeking Ph.D. and MPhil opportunities. I earned my **B.Eng. in Mechatronics Engineering from Beijing Institute of Technology(BIT)** in June 2024. After graduation, I worked for six months as a Research Technical Assistant in the ***AIMS Lab under Prof. Hailong Huang***[https://sites.google.com/view/hailong-huang/home] at the Department of Aeronautical and Aviation Engineering(AAE), The Hong Kong Polytechnic University(PolyU). I was later directly recruited by ***Academician Dayong Jin***[https://www.eitech.edu.cn/?tid=119&p=teacher] to join the Eastern Institute of Technology as an engineer.My research interests include **robotics, organoid intelligence, UAVs, and autonomous vehicles**.
+Hiya, I’m Hao WU, and you can call me Quentin. In ancient Rome, it symbolized the **number five**. In sound, it mirrors my name. I was born in 2000 and identify as an ENFP. I’m currently seeking Ph.D. and MPhil opportunities. I earned my **B.Eng. in Mechatronics Engineering from Beijing Institute of Technology(BIT)** in June 2024. After graduation, I worked for six months as a Research Technical Assistant in the ***[AIMS Lab under Prof. Hailong Huang](https://sites.google.com/view/hailong-huang/home)*** at the Department of Aeronautical and Aviation Engineering(AAE), The Hong Kong Polytechnic University(PolyU). I was later directly recruited by ***[Academician Dayong Jin](https://www.eitech.edu.cn/?tid=119&p=teacher)*** to join the Eastern Institute of Technology as an engineer.My research interests include **robotics, organoid intelligence, UAVs, and autonomous vehicles**.
 
-I’m also one of the leading experts and collectors of ancient Chinese coins in mainland China. I began studying this field at the age of six and have spent the past decade developing into a **top-level authentication specialist**. Over the years, I’ve served as a chief consultant or authenticator for several of China’s leading coin grading and auction companies, including **GBCA (Gongbo)**[https://www.gongbocoins.com/], **Baocui Grading**[https://www.baocuicoin.com/], Zhizhen Grading[https://www.baocuicoin.com/view/4.html], and Yuequanwan Antiques Auction House[https://wwj.beijing.gov.cn/bjww/362771/362775/325842777/index.html].
-To support myself, I’ve also engaged in limited coin trading. In recent years, my focus has been on the collection and study of Qing Dynasty coin prototypes, including diaomu (engraving samples), muqian (mother coins), and yangqian (pattern coins). I’m always open to discussion and exchange with fellow collectors and those interested in this field.
+I’m also one of the leading experts and collectors of ancient Chinese coins in mainland China. I began studying this field at the age of six and have spent the past decade developing into a **top-level authentication specialist**. Over the years, I’ve served as a chief consultant or authenticator for several of China’s leading coin grading and auction companies, including **[GBCA (Gongbo)](https://www.gongbocoins.com/)***, **[Baocui Grading](https://www.baocuicoin.com/)**, **[Zhizhen Grading](https://www.baocuicoin.com/view/4.html)**, and **[Yuequanwan Antiques Auction House](https://wwj.beijing.gov.cn/bjww/362771/362775/325842777/index.html)**
+.
+To support myself, I’ve also engaged in limited coin trading. In recent years, my focus has been on the collection and study of Qing Dynasty coin prototypes, including diaomu**雕母** (engraving samples&mother coins' mother coin), muqian**母钱** (mother coins), and yangqian**样钱** (pattern coins). I’m always open to discussion and exchange with fellow collectors and those interested in this field.
 
-You can find more details in my CV or reach out to me directly via email[mailto:2000hao.wu0323@gmail.com].
+You can find more details in my [CV](../assets/April_WUHAO_CV.pdf) or reach out to me directly via [email](mailto:2000hao.wu0323@gmail.com).
 
-A data-driven personal website
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+-**Beijing Institute of Technology**
+**B.Eng. in Mechatronical Engineering
+September 2019 to June 2024
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Work Experience
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+-**The Eastern Institute of Technology Academician Dayong Jin's Group**
+March 2025 to present
+Position: Engineer
+Project: Organiod Intelligence
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-**The Hong Kong Polytechnic University(PolyU) at the Department of Aeronautical and Aviation Engineering(AAE)**
+September 2024 to February 2025
+Position: Research Technical Assistant of AIMS group
+Project:UAV and UGV Dlivery Collaboration in Low-alttitude Economy, at PolyU AAE AIMS Group
