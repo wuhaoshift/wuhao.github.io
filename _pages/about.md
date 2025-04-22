@@ -18,19 +18,27 @@ You can find more details in my [CV](../assets/April_WUHAO_CV.pdf) or reach out 
 
 Education
 ======
-- **Beijing Institute of Technology**
+**Beijing Institute of Technology**
 
-**B.Eng. in Mechatronical Engineering**
+- **B.Eng. in Mechatronical Engineering**
+
 September 2019 to June 2024
 
 Work Experience
 ======
-- **The Eastern Institute of Technology Academician Dayong Jin's Group**
+**The Eastern Institute of Technology Academician Dayong Jin's Group**
+
 March 2025 to present
+
 Position: Engineer
+
 Project: Organiod Intelligence
 
-- **The Hong Kong Polytechnic University(PolyU) at the Department of Aeronautical and Aviation Engineering(AAE)**
+
+**The Hong Kong Polytechnic University(PolyU) at the Department of Aeronautical and Aviation Engineering(AAE)**
+
 September 2024 to February 2025
+
 Position: Research Technical Assistant of AIMS group
+
 Project:UAV and UGV Dlivery Collaboration in Low-alttitude Economy, at PolyU AAE AIMS Group
